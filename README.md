@@ -1,16 +1,12 @@
 ## Mi nombre es Francisco Letelier 👋
-#### Ingeniero Comercial 💻 actualmente trabajo como subgerente de finanzas ♨️
+#### Commercial Engineering 💻 currently working on finance & accountability ♨️
 
 
 
 
-### Me dedico a:
+### Working on:
+- Finishing the Master in Data Science.
 
-
-- Actualmente terminando el Magister en Data Science.
-- Soy más lector que escritor.
-- Me gustaría trabajar investigando
-- De a poco mejorando mis habilidades en Data Science
 ___
 
 
